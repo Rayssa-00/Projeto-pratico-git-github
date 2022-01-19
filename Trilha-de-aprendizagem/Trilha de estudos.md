@@ -29,8 +29,8 @@
 
 - Git init
 - Git add
+- Git status
 - Git commit
-- Git  status
-- Git commit
+- Git remote
 - Git push
 - Git clone
